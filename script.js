@@ -1,7 +1,7 @@
 function threeSum(arr, target) {
 // write your code here
 	let closetSum = Number.MAX_VALUE;
-	arr.length = n
+	n = arr.length 
   for(i =0;i<n, i++){
 	  for(j=i+1;j<n;j++){
 		  for(k=j+1;j<n;j++{
